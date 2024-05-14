@@ -8,6 +8,9 @@ The Social Media Search Tool by d39th is a command-line tool developed in Python
   ```
   py dxth.py (username)
   ```
+ ```
+ pip install -r requirements.txt 
+  ```
   Replace `(username)` with the specific username you want to search for.
 
 **Features:**
